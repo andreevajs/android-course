@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Plants Generator</string>
+    <string name="button_center">generate</string>
+    <string name="header">Plants Generator</string>
+</resources>
